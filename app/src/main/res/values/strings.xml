@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MedCare</string>
+    <string name="Home_message">Health DashBoard</string>
+    <string name="Personal_message">Profile</string>
+    <string name="Device_message">Device Management</string>
+    <string name="AboutMe">About Me</string>
+    <string name="Contact">Contact</string>
+    <string name="SignUp">Don\'t have an account yet? Create an account.</string>
+    <string name="Login">Already have an account? Login.</string>
+    <string name="Information">
+        Nhà Phát triển:\n
+        • Nguyễn Duy Minh.\n
+        Thông tin liên hệ:\n
+        Email: 20021554@vnu.edu.vn.</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoidGhldXNlcjIxIiwiYSI6ImNscWQzaWl4ZzAwa2Uya251cjZ0cXdrdGIifQ.5MsIMuDpVN5aa3kTT7AH8Q</string>
+</resources>
